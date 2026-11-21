@@ -10,7 +10,6 @@
 
 **English summary:** A domain-neutral pipeline that extracts entities and relations from unstructured documents, stores them in Neo4j, retrieves graph evidence for a question, and generates a grounded answer with traceable evidence.
 
-> 本仓库仅提供通用工程代码，不附带数据集、真实账号、密钥或本地运行产物。
 
 ## 项目能力
 
